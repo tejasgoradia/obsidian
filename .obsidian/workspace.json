@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcf6ae15a640c1bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "az-104/az-104 bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "az-104/az-104 bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "az-104/az-104 bookmarks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e40b667e7233f6",
+  "active": "d0c948bffe2daf80",
   "lastOpenFiles": [
+    "az-104/az-104 bookmarks.md",
     "Untitled.md",
     "Workflows/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
     "Workflows/04 Flat PARA/PARA with flat file structure.md",
@@ -157,7 +163,6 @@
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Health/A Day In The Life of my Supposedly Frugal Stomach by mrmoneymustache.com.md",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Outline.md",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
-    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md",
-    "Workflows/01 Obsidian Workflows.md"
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md"
   ]
 }
