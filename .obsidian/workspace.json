@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6b4ad448fb4809c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df6bd6bb534aa2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e40b667e7233f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "az-104/az-104 bookmarks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27e0c74eed672e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c6915822281dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c948bffe2daf80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c842e3f86ad291b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdcd3d853cb6c724",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e1267770b410ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbec93d795b3a1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec146b9f047e428c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "az-104/az-104 bookmarks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7465dbc834c54fae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "az-104/az-104 bookmarks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c5a35002cf42dc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de03f0b0c97bfffd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "az-104/az-104 bookmarks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1e40b667e7233f6",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Workflows/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
+    "Workflows/04 Flat PARA/PARA with flat file structure.md",
+    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/3 years rule note.md",
+    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Job/3 Things That Will Boost Your Teams Communication.md",
+    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Health/A Day In The Life of my Supposedly Frugal Stomach by mrmoneymustache.com.md",
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Outline.md",
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md",
+    "Workflows/01 Obsidian Workflows.md"
+  ]
+}
